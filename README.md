@@ -8,10 +8,10 @@ A new Flutter project.
 ## Getting Started
 
 ### Description:
-assets
+#assets
  - images
    -img
-lib
+#lib
   - pages
     -home_page
     -detail_page

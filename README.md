@@ -20,6 +20,11 @@ A new Flutter project.
 #### ![img.png](img.png)
 #### ![img_1.png](img_1.png)
 
+## EXAMPLE:
+#### main ![img_2.png](img_2.png)
+#### home_page ![img_3.png](img_3.png)
+#### detail_page ![img_4.png](img_4.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:

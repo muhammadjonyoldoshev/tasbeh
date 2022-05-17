@@ -1,4 +1,4 @@
-#                     my_app
+#Tasbeh_App
 ## my_app
 ### my_app
 #### my_app
@@ -6,6 +6,16 @@
 A new Flutter project.
 
 ## Getting Started
+
+### Description:
+assets
+ - images
+   -img
+lib
+  - pages
+    -home_page
+    -detail_page
+  - main.dart
 
 This project is a starting point for a Flutter application.
 

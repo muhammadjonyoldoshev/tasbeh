@@ -1,9 +1,6 @@
 #Tasbeh_App
-## my_app
-### my_app
-#### my_app
 
-A new Flutter project.
+Yangi Flutter loyihasi.
 
 ## Getting Started
 
@@ -25,13 +22,13 @@ A new Flutter project.
 #### home_page ![img_3.png](img_3.png)
 #### detail_page ![img_4.png](img_4.png)
 
-This project is a starting point for a Flutter application.
+Ushbu loyiha Flutter ilovasi uchun boshlang'ich nuqtadir.
 
-A few resources to get you started if this is your first Flutter project:
+Agar bu sizning birinchi Flutter loyihangiz bo'lsa, boshlash uchun bir nechta manbalar:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Laboratoriya: Birinchi Flutter ilovangizni yozing](https://github.com/muhammadjonyoldoshev/tasbeh)
+- [Ovqatlanish kitobi: Flutterning foydali namunalari](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter-ni ishga tushirishda yordam olish uchun bizning sahifamizga qarang
+[online documentation](https://flutter.dev/docs), o'quv qo'llanmalarini taklif qiladigan,
+namunalar, mobil rivojlanish bo'yicha yo'riqnoma va to'liq API ma'lumotnomasi.

@@ -8,13 +8,13 @@ A new Flutter project.
 ## Getting Started
 
 ### Description:
-## assets
-##   - images: img.jpg
-## lib
-##   - pages 
-##      home_page
-##     detail_page
-##  - main.dart
+## assets:
+#####   - images: img.jpg
+## lib:
+###   - pages: 
+#####      home_page
+#####     detail_page
+###  - main.dart
 
 This project is a starting point for a Flutter application.
 
